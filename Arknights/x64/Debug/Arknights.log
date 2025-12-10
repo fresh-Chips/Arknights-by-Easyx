@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl loadimage(class IMAGE *,char const *,int,int,bool)" (?loadimage@@YAXPEAVIMAGE@@PEBDHH_N@Z)，函数 "void __cdecl load_game_resources(void)" (?load_game_resources@@YAXXZ) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "int __cdecl loadimage(class IMAGE *,char const *,char const *,int,int,bool)" (?loadimage@@YAHPEAVIMAGE@@PEBD1HH_N@Z)
+      "int __cdecl loadimage(class IMAGE *,char const *,int,int,bool)" (?loadimage@@YAHPEAVIMAGE@@PEBDHH_N@Z)
+      "public: static int __cdecl EasyX::ImageFunc::loadimage(class IMAGE *,char const *,char const *,int,int,bool)" (?loadimage@ImageFunc@EasyX@@SAHPEAVIMAGE@@PEBD1HH_N@Z)
+      "public: static int __cdecl EasyX::ImageFunc::loadimage(class IMAGE *,char const *,int,int,bool)" (?loadimage@ImageFunc@EasyX@@SAHPEAVIMAGE@@PEBDHH_N@Z)
+tools.obj : error LNK2019: 无法解析的外部符号 "unsigned long * __cdecl GetImageBuffer(class IMAGE *)" (?GetImageBuffer@@YAPEAKPEAVIMAGE@@@Z)，函数 "void __cdecl _putimagePNG(int,int,class IMAGE *)" (?_putimagePNG@@YAXHHPEAVIMAGE@@@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "unsigned long * __cdecl GetImageBuffer(class IMAGE const *)" (?GetImageBuffer@@YAPEAKPEBVIMAGE@@@Z)
+F:\明日方舟c++\Arknights\x64\Debug\Arknights.exe : fatal error LNK1120: 2 个无法解析的外部命令

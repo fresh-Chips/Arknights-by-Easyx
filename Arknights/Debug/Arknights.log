@@ -1,0 +1,21 @@
+﻿  main.cpp
+F:\明日方舟c++\Arknights\Arknights\Atlas.h(23,26): warning C4018: “>=”: 有符号/无符号不匹配
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\main.cpp(119,18): warning C4305: “初始化”: 从“double”到“float”截断
+  Arknights.vcxproj -> F:\明日方舟c++\Arknights\Debug\Arknights.exe

@@ -1,0 +1,208 @@
+﻿  Animation.cpp
+  Atlas.cpp
+F:\明日方舟c++\Arknights\Arknights\Animation.cpp(23,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Animation.cpp(23,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Avenger.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Avenger.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Avenger.cpp”)
+  
+  Bullet.cpp
+  Button.cpp
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Button.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“Button.cpp”)
+  
+  Camera.cpp
+F:\明日方舟c++\Arknights\Arknights\Camera.cpp(29,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Camera.cpp(30,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Character.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Character.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Character.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(48,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(48,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(47,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(47,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(87,76): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(87,55): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(89,74): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(89,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(105,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(104,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(103,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(102,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(111,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(116,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(122,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(121,36): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(120,31): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(119,37): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(144,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(250,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Character.cpp(251,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Command.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Command.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Command.cpp”)
+  
+  Daoguang.cpp
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Daoguang.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.cpp(21,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Daoguang.cpp(20,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Enemy.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Enemy.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Enemy.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(95,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(94,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(103,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(102,15): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(113,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(217,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(216,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(215,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Enemy.cpp(214,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  EnemyWave.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“EnemyWave.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“EnemyWave.cpp”)
+  
+  Exusiai.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Exusiai.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Exusiai.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Exusiai.cpp(41,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Exusiai.cpp(41,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Exusiai.cpp(94,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Exusiai.cpp(95,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Frostleaf.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Frostleaf.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Frostleaf.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Frostleaf.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Frostleaf.cpp(73,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Frostleaf.cpp(74,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  GameScene.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“GameScene.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“GameScene.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“GameScene.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GameScene.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“GameScene.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\GameScene.cpp(109,32): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\GameScene.cpp(109,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\GameScene.cpp(305,9): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\GameScene.cpp(306,9): warning C4244: “初始化”: 从“const float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\GameScene.cpp(331,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Gridcell.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Gridcell.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Gridcell.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Gridcell.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Gridcell.cpp(32,70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Gridcell.cpp(32,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  LevelSelector.cpp
+  LoginScene.cpp
+  main.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Daoguang.h(44,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Button.h(20,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\main.cpp(119,18): warning C4305: “初始化”: 从“double”到“float”截断
+F:\明日方舟c++\Arknights\Arknights\main.cpp(305,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\main.cpp(340,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  MenuScene.cpp
+F:\明日方舟c++\Arknights\Arknights\MenuScene.cpp(22,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\MenuScene.cpp(22,16): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Muelsyse.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Muelsyse.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Muelsyse.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Muelsyse.cpp(18,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+F:\明日方舟c++\Arknights\Arknights\Muelsyse.cpp(19,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在编译...
+  primebug.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“primebug.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“primebug.cpp”)
+  
+  Ritor.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Ritor.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Ritor.cpp”)
+  
+  Scene.cpp
+  SceneManager.cpp
+  Shield.cpp
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(36,17): warning C4091: “typedef ”: 没有声明变量时忽略“Enemy::CheckPoint”的左侧
+  (编译源文件“Shield.cpp”)
+  
+F:\明日方舟c++\Arknights\Arknights\Enemy.h(148,10): warning C4244: “return”: 从“const float”转换到“int”，可能丢失数据
+  (编译源文件“Shield.cpp”)
+  
+  Timer.cpp
+  tools.cpp
+  TujianScene.cpp
+  Vector2.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2060 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Arknights.vcxproj -> F:\明日方舟c++\Arknights\x64\Release\Arknights.exe
